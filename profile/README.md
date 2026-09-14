@@ -1,7 +1,12 @@
 
 <div align="center">
 
-<img width="384" src="assets/lab_logo.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lab_logo_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/lab_logo_light.png">
+  <img width="384" height="180" src="assets/lab_logo_light.png">
+</picture>
+
 
 <br><br>
 
