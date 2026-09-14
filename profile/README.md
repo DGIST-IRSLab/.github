@@ -1,9 +1,11 @@
 
 <div align="center">
 
-  <span style="display:inline-block; background-color:white; color:black; padding:12px 20px; border-radius:12px;">
-
-<img width="384" height="256" src="assets/lab_logo.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lab_logo_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/lab_logo_light.png">
+  <img width="384" height="256" src="assets/lab_logo_light.png">
+</picture>
 
 <br><br>
 
@@ -18,8 +20,7 @@ we aim to push the boundaries of human perceptual capabilities in diverse areas 
 
 ---
 
-  <span style="display:inline-block; background-color:white; color:black; padding:12px 20px; border-radius:12px;">
-  
+
 ## Research Area
 
 - **Wireless-Centric AI**<br>
@@ -45,11 +46,7 @@ we aim to push the boundaries of human perceptual capabilities in diverse areas 
   <sub>Discover our research code and projects in the repositories below.</sub>
 </p>
 
-</span>
-
 ---
-
-  <span style="display:inline-block; background-color:white; color:black; padding:12px 20px; border-radius:12px;">
 
 <table align="center">
   <tr>
@@ -65,5 +62,3 @@ we aim to push the boundaries of human perceptual capabilities in diverse areas 
 <p align="center">
   <b>Contact</b> · <a href="mailto:jhochoi@dgist.ac.kr">jhochoi@dgist.ac.kr</a>
 </p>
-
-</span>
