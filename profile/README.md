@@ -4,9 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/lab_logo_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/lab_logo_light.png">
-  <a href="https://irslabdgist.github.io/">
   <img width="384" height="180" src="assets/lab_logo_light.png">
-  </a>
 </picture>
 
 
