@@ -1,18 +1,25 @@
+
 <div align="center">
 
-<img width="384" height="256" alt="연구실로고_white" src="https://github.com/user-attachments/assets/ecc88670-5ccd-4ba8-8dc8-eebd4360530e" />
+  <span style="display:inline-block; background-color:white; color:black; padding:12px 20px; border-radius:12px;">
 
+<img width="384" height="256" src="assets/lab_logo.png" />
 
-Our goal is to develop new sensing technologies to see the world from from entirely new perspective, **through AI-Driven Wireless+X Sensing.** By Integrating the <b>Power of AI with Radio-Frequency Signal Processing—and further expanding these capabilities through Sensor Fusion—</b>
+<br><br>
+
+Our goal is to develop new sensing technologies to see the world from an entirely new perspective, <b>through AI-Driven Wireless+X Sensing.</b>
+By integrating the <b>power of AI with Radio-Frequency Signal Processing—and further expanding these capabilities through Sensor Fusion—</b>
 we aim to push the boundaries of human perceptual capabilities in diverse areas such as IoT, Health Monitoring, Autonomous Driving, Defense/Remote Sensing, and HCI.
 
 <p>
   <a href="https://irslabdgist.github.io/"><b>Lab Homepage ↗</b></a>
-  &nbsp;&nbsp;
-<br>
-
+</p>
 </div>
 
+---
+
+  <span style="display:inline-block; background-color:white; color:black; padding:12px 20px; border-radius:12px;">
+  
 ## Research Area
 
 - **Wireless-Centric AI**<br>
@@ -38,11 +45,25 @@ we aim to push the boundaries of human perceptual capabilities in diverse areas 
   <sub>Discover our research code and projects in the repositories below.</sub>
 </p>
 
+</span>
+
 ---
 
-<p align="center">
-  <img width="256" height="88" src="https://github.com/user-attachments/assets/e9b167f3-2254-4399-82b0-2c84214717fe" />
-</p>
+  <span style="display:inline-block; background-color:white; color:black; padding:12px 20px; border-radius:12px;">
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img width="256" src="assets/dgist_logo.png" />
+    </td>
+    <td align="center" valign="middle">
+      <img width="256" src="assets/eecs_logo.png" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <b>Contact</b> · <a href="mailto:jhochoi@dgist.ac.kr">jhochoi@dgist.ac.kr</a>
 </p>
+
+</span>
