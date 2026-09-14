@@ -1,8 +1,7 @@
 <div align="center">
 
-Daegu Gyeongbuk Institute of Science & Technology (DGIST)
+<img width="384" height="256" alt="연구실로고_white" src="https://github.com/user-attachments/assets/ecc88670-5ccd-4ba8-8dc8-eebd4360530e" />
 
-# Intelligent Radio Sensing Lab
 
 Our goal is to develop new sensing technologies to see the world from from entirely new perspective, **through AI-Driven Wireless+X Sensing.** By Integrating the <b>Power of AI with Radio-Frequency Signal Processing—and further expanding these capabilities through Sensor Fusion—</b>
 we aim to push the boundaries of human perceptual capabilities in diverse areas such as IoT, Health Monitoring, Autonomous Driving, Defense/Remote Sensing, and HCI.
@@ -42,5 +41,8 @@ we aim to push the boundaries of human perceptual capabilities in diverse areas 
 ---
 
 <p align="center">
-  <sub><b>Faculty Contact</b> · <a href="mailto:jhochoi@dgist.ac.kr">jhochoi@dgist.ac.kr</a></sub>
+  <img width="256" height="88" src="https://github.com/user-attachments/assets/e9b167f3-2254-4399-82b0-2c84214717fe" />
+</p>
+<p align="center">
+  <b>Contact</b> · <a href="mailto:jhochoi@dgist.ac.kr">jhochoi@dgist.ac.kr</a>
 </p>
