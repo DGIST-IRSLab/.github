@@ -52,10 +52,14 @@ we aim to push the boundaries of human perceptual capabilities in diverse areas 
 <table align="center">
   <tr>
     <td align="center" valign="middle">
+        <a href="https://www.dgist.ac.kr/">
       <img width="256" src="assets/dgist_logo.png" />
+        </a>
     </td>
     <td align="center" valign="middle">
+        <a href="https://www.dgist.ac.kr/en_eecs/index.do">
       <img width="256" src="assets/eecs_logo.png" />
+        </a>
     </td>
   </tr>
 </table>
