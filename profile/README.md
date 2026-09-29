@@ -15,7 +15,7 @@ By integrating the <b>power of AI with Radio-Frequency Signal Processing—and f
 we aim to push the boundaries of human perceptual capabilities in diverse areas such as IoT, Health Monitoring, Autonomous Driving, Defense/Remote Sensing, and HCI.
 
 <p>
-  <a href="https://irslabdgist.github.io/"><b>Lab Homepage ↗</b></a>
+  <a href="https://dgist-irslab.github.io/"><b>Lab Homepage ↗</b></a>
 </p>
 </div>
 
