@@ -24,22 +24,23 @@ we aim to push the boundaries of human perceptual capabilities in diverse areas 
 
 ## Research Area
 
-- **Wireless-Centric AI**<br>
-    - Radar Signal Processing + AI
-    - Wireless Foundation Model
-    - Wireless + Generative AI
-    - Complex Neural Network
+- **Wireless Foundation Models**<br>
+   - Physics-Aware Self-Supervised Learning
+   - Cross-Modal Wireless-Language Pretraining
+   - Radar-Grounded Multimodal Scene Reasoning
+   - RF Simulation & Digital Twin Synthesis
 
-- **Innovative Wireless+X Perception Systems**<br>
-    - Next Sensing Technologies for Various Application Areas (e.g. Health Monitoring, IoT, Defense)
-    - Micro-Motion Sensing
-    - Remote Sensing with Synthetic Aperture Radar (SAR)
-    - Sensing in Challenging Scenarios (e.g. Occlusion, Dark)
+- **Beyond-Optical Perception Systems**<br>
+   - 3D Human Pose & Motion Estimation
+   - Contactless Vital Sign & SpO2 Monitoring
+   - See-Through Robotic Manipulation
+   - Micro-Doppler Aerial Target Sensing
 
-- **Multi-Modal & Multi-Sensor Fusion**<br>
-    - Multi-Sensor Fusion
-    - Multi-Modal Learning
-    - Sensor Signal Processing
+- **ISAC & AI Signal Processing**<br>
+   - Ambient Wi-Fi & Cellular Network Sensing
+   - AI-Driven Virtual I/Q Reconstruction
+   - Signal Super-Resolution for Radar Imaging
+   - Autonomous Signal Processing Agents
 
 <br>
 
