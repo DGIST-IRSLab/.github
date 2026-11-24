@@ -25,22 +25,22 @@ we aim to push the boundaries of human perceptual capabilities in diverse areas 
 ## Research Area
 
 - **Wireless Foundation Models**<br>
-   - Physics-Aware Self-Supervised Learning
-   - Cross-Modal Wireless-Language Pretraining
-   - Radar-Grounded Multimodal Scene Reasoning
-   - RF Simulation & Digital Twin Synthesis
+  - Radar for Autonomous Driving
+  - Cross-Modal Radar-Language Pretraining
+  - Radar-Grounded Multimodal Scene Reasoning
+  - RF Simulation & Digital Twin Synthesis
+  - Generative Models for Complex Signals
 
 - **Beyond-Optical Perception Systems**<br>
-   - 3D Human Pose & Motion Estimation
-   - Contactless Vital Sign & SpO2 Monitoring
-   - See-Through Robotic Manipulation
-   - Micro-Doppler Aerial Target Sensing
+  - RF-Based 3D Human Pose & Motion Estimation
+  - Contactless Vital Sign & SpO2 Monitoring
+  - Multimodal Vision-Language-Action Models
+  - Micro-Doppler Aerial Target Sensing
 
 - **ISAC & AI Signal Processing**<br>
-   - Ambient Wi-Fi & Cellular Network Sensing
-   - AI-Driven Virtual I/Q Reconstruction
-   - Signal Super-Resolution for Radar Imaging
-   - Autonomous Signal Processing Agents
+  - Ambient Wi-Fi & Cellular Network Sensing
+  - AI-Driven Complex I/Q Reconstruction
+  - Synthetic Aperture Radar Super-Resolution
 
 <br>
 
